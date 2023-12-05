@@ -1,7 +1,5 @@
 ### NLP app with Streamlit
 
-
-
 #### Requirements
 + pip install
 	- streamlit
@@ -9,4 +7,6 @@
 	- spacy
 	- textblob
 	- neattext
+
++ python3 -m spacy download en_core_web_lg
 	
